@@ -1,5 +1,5 @@
 # Video Game Sales Analysis
-This project utilizes the Video Game Sales dataset from [Kaggle]((link unavailable)) to showcase skills in data analysis, cleaning, and machine learning.
+This project utilizes the Video Game Sales dataset from [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales) to showcase skills in data analysis, cleaning, and machine learning.
 
 ## Project Overview
 This project involves:
