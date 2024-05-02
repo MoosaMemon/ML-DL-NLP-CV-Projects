@@ -5,8 +5,9 @@ Feel free to browse the projects, and if you have any suggestions or ideas, plea
 ## Project List
 
 ### Project 1: [Video Game Sales Analysis](https://github.com/MoosaMemon/ML-DL-NLP-CV-Projects/tree/main/Video%20Game%20Sales%20Analysis)
-
 **Description:** Explores video game sales data using data analysis and machine learning techniques to extract insights and build predictive models.
+### Project 2: [Fake News Detection System](https://github.com/MoosaMemon/ML-DL-NLP-CV-Projects/tree/main/Fake%20News%20Detection%20System)
+**Description:** Utilizing NLP and machine learning algorithms, this project detects fake news from labeled news articles.
 
 ## Contributions
 
