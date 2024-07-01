@@ -17,6 +17,7 @@ This project involves:
 - Neural Network techniques:
   - Activation function: ReLU
   - Optimizer: Adam
+  - Early stopping to find the appropriate number of epochs
 
 ## About the Project
 
