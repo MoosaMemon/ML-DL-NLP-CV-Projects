@@ -10,6 +10,10 @@ Feel free to browse the projects, and if you have any suggestions or ideas, plea
 **Description:** Utilizing NLP and machine learning algorithms, this project detects fake news from labeled news articles.
 ### Project 3: [NLP Text-Processing](https://github.com/MoosaMemon/ML-DL-NLP-CV-Projects/tree/main/NLP%20Text-Processing)
 **Description:** A collection of fundamental Natural Language Processing (NLP) text preprocessing notebooks demonstrating core techniques such as tokenization, stopword removal, stemming, lemmatization, POS tagging, and named entity recognition.
+### Project 4: [Employee Churn Prediction System (ANN)](https://github.com/MoosaMemon/ML-DL-NLP-CV-Projects/tree/main/Churn%20Modeling%20(ANN))
+**Description:** Builds an Artificial Neural Network (ANN) model to predict whether an employee is likely to leave an organization based on employee-related features. The project includes data preprocessing, exploratory data analysis (EDA), ANN model training, hyperparameter tuning, and performance evaluation using techniques such as early stopping.
+### Project 5: [Pima Indians Diabetes Prediction System (ANN)](https://github.com/MoosaMemon/ML-DL-NLP-CV-Projects/tree/main/Pima%20Indians%20Diabetes%20(ANN))
+**Description:** Develops an Artificial Neural Network (ANN) model to predict the onset of diabetes using medical diagnostic data. The project covers data preprocessing, EDA, ANN-based classification, hyperparameter tuning with Keras Tuner, and model evaluation, focusing on healthcare-related predictive modeling.
 
 ## Contributions
 
