@@ -8,6 +8,8 @@ Feel free to browse the projects, and if you have any suggestions or ideas, plea
 **Description:** Explores video game sales data using data analysis and machine learning techniques to extract insights and build predictive models.
 ### Project 2: [Fake News Detection System](https://github.com/MoosaMemon/ML-DL-NLP-CV-Projects/tree/main/Fake%20News%20Detection%20System)
 **Description:** Utilizing NLP and machine learning algorithms, this project detects fake news from labeled news articles.
+### Project 3: [NLP Text-Processing](https://github.com/MoosaMemon/ML-DL-NLP-CV-Projects/tree/main/NLP%20Text-Processing)
+**Description:** A collection of fundamental Natural Language Processing (NLP) text preprocessing notebooks demonstrating core techniques such as tokenization, stopword removal, stemming, lemmatization, POS tagging, and named entity recognition.
 
 ## Contributions
 
